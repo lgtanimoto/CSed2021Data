@@ -1,0 +1,52 @@
+﻿StateAbbv,StateName,P1_StatePlan,P2_Standards,P3_Funding,P4_Certification,P5_PreserviceIncentives,P6_StateCSposition,P7_RequireHStoOffer,P8_CountGradReq,P9_HigherEdAdmission,PctLast,YearOfLast,NumOfHS,NumHSWithCS,PctLastCalc
+AK,Alaska,No,Yes,No,No,No,No,No,District Decision,No,0.42,21,296,124,0.418918919
+AL,Alabama,In progress,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.81,21,407,332,0.815724816
+AR,Arkansas,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.92,21,306,283,0.924836601
+AZ,Arizona,No,Yes,Yes,Yes,No,In Progress,No,District Decision,No,0.38,20,867,333,0.384083045
+CA,California,Yes,Yes,Yes,Yes,No,No,No,District Decision,Yes,0.41,19,2633,1069,0.40600076
+CO,Colorado,No,No,Yes,No,No,Yes,No,District Decision,Yes,0.42,21,533,226,0.424015009
+CT,Connecticut,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,0.82,20,209,171,0.818181818
+DC,District of Columbia,No,No,No,Yes,No,No,No,Yes,No,0.37,21,43,16,0.372093023
+DE,Delaware,No,Yes,No,No,No,No,Yes,Yes,No,0.55,21,55,30,0.545454545
+FL,Florida,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,0.38,21,1280,480,0.375
+GA,Georgia,Yes,In progress,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.61,21,511,313,0.612524462
+HI,Hawaii,Yes,Yes,No - Historic Yes,Yes,No,Yes,Yes,Yes,No,0.72,21,64,46,0.71875
+IA,Iowa,In progress,Yes,Yes,Yes,No,Yes,Yes,District Decision,Yes,0.64,21,353,227,0.64305949
+ID,Idaho,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.4,21,262,104,0.396946565
+IL,Illinois,No,In progress,No,Yes,No,No,Yes,Yes,Yes,0.43,20,994,425,0.427565392
+IN,Indiana,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.74,21,415,308,0.742168675
+KS,Kansas,No,Yes,No,In progress,No,Yes,No,District Decision,No,0.27,20,365,100,0.273972603
+KY,Kentucky,In progress,Yes,Yes,Yes,No,Yes,No,District Decision,Yes,0.51,21,405,207,0.511111111
+LA,Louisiana,No,No,No,Yes,No,No,No,Yes,Yes,0.29,21,398,117,0.293969849
+MA,Massachusetts,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,0.82,20,387,319,0.824289406
+MD,Maryland,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.9,20,242,218,0.900826446
+ME,Maine,Yes,No,Yes,No,No,Yes,No,District Decision,No,0.6,21,126,76,0.603174603
+MI,Michigan,No,Yes,No,No,No,Yes,No,Yes,No,0.44,21,1327,580,0.437076112
+MN,Minnesota,No,No,No,No,No,Yes,No,Yes,No,0.24,20,1114,267,0.23967684
+MO,Missouri,No,Yes,Yes,Yes,No,No,No,Yes,No,0.5,20,634,316,0.498422713
+MS,Mississippi,In progress,Yes,Yes,Yes,No,No,Yes,Yes,Yes,0.65,21,252,163,0.646825397
+MT,Montana,No,Yes,No,Yes,Yes,No,No,District Decision,No,0.37,21,174,65,0.373563218
+NC,North Carolina,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,0.59,21,697,414,0.593974175
+ND,North Dakota,No,Yes,No,Yes,No,No,No,Yes,No,0.43,21,169,72,0.426035503
+NE,Nebraska,In progress,No,No,No,No,No,No,District Decision,No,0.46,20,269,124,0.460966543
+NH,New Hampshire,Yes,Yes,No,Yes,Yes,Yes,Yes,District Decision,No,0.78,21,100,78,0.78
+NJ,New Jersey,Yes,Yes,Yes,Yes,No,In Progress,Yes,Yes,No,0.68,20,516,351,0.680232558
+NM,New Mexico,Yes,Yes,Yes,In progress,No,Yes,No,Yes,No,0.44,21,241,105,0.435684647
+NV,Nevada,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.83,21,151,125,0.82781457
+NY,New York,No,Yes,Yes,Yes,Yes,No,No,District Decision,No,0.5,20,1428,714,0.5
+OH,Ohio,In progress,Yes,No - Historic Yes,Yes,Yes,Yes,No,Yes,Yes,0.5,20,971,489,0.503604531
+OK,Oklahoma,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,0.53,21,494,263,0.532388664
+OR,Oregon,No,No,No,No,No,No,No,District Decision,No,0.55,21,341,189,0.554252199
+PA,Pennsylvania,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,0.63,20,794,504,0.634760705
+RI,Rhode Island,Yes,Yes,Yes,Yes,No,Yes,Other,Yes,No,0.86,21,63,54,0.857142857
+SC,South Carolina,Soon in progress,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,0.92,21,306,282,0.921568627
+SD,South Dakota,No,No,No,Yes,No,No,No,Yes,No,0.4,21,210,83,0.395238095
+TN,Tennessee,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,0.54,21,423,230,0.543735225
+TX,Texas,In progress,Soon in progress,Yes,Yes,Yes,No,Yes,Yes,Yes,0.49,20,2066,1021,0.494191675
+UT,Utah,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,0.74,21,333,248,0.744744745
+VA,Virginia,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,0.73,20,348,255,0.732758621
+VT,Vermont,No,No,No,Yes,Yes,No,No,District Decision,No,0.64,21,70,45,0.642857143
+WA,Washington,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.49,20,811,396,0.488286067
+WI,Wisconsin,In progress,Yes,No,Yes,Yes,No,Other,Yes,No,0.62,21,638,396,0.620689655
+WV,West Virginia,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,0.76,21,130,99,0.761538462
+WY,Wyoming,Yes,Yes,Other,Yes,No,Yes,Yes,Yes,Yes,0.5,21,105,52,0.495238095
