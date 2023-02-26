@@ -1,0 +1,66 @@
+﻿body
+{
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table {
+    border: 1px solid;
+    border-spacing: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+th {
+    border: 1px solid;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+td {
+   border: 1px solid;
+   padding: 2px;
+}
+
+td.ncenter {
+    text-align: center;
+}
+
+tr.low3val {
+    background-color: #FB0007;
+}
+
+tr.low2val {
+    background-color: #F38337;
+}
+
+tr.low1val {
+    background-color: #FDB409;
+}
+
+tr.avgval {
+    background-color: lightyellow;
+}
+
+tr.high1val {
+    background-color: #8CFF28;
+}
+
+tr.high2val {
+    background-color: #5BFF27;
+}
+
+tr.high3val {
+    background-color: #30C627;
+}
+
+tr.nostat {
+    background-color: lightgray;
+}
