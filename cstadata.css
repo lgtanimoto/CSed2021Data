@@ -1,0 +1,23 @@
+﻿body
+{
+    font-family: "Arial"
+}
+table {
+    border: 1px solid;
+}
+
+th {
+    border: 1px solid;
+    background-color: lightgray;
+    text-align: center;
+}
+
+td {
+    border: 1px solid;
+    background-color: seashell;
+    padding: 2px;
+}
+
+td.ncenter {
+    text-align: center;
+}
